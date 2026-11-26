@@ -9,7 +9,7 @@ Výzkumný projekt přístupných digitálních pomůcek pro speciální vzděl�
 - `soukromi/index.html` – vysvětlení práce s odpověďmi a hostingu.
 - `CNAME` – krokivo.eu (nastavení DNS/GitHub Pages spravuje vlastník).
 
-Statický výzkumný prototyp bez účtů, analytiky, externích knihoven a databáze. Pro lokální kontrolu `python3 -m http.server 8000` a otevřít http://localhost:8000. Ověřit všech 6 sekcí, export/import, tisk, mobilní layout. Není zde centrální příjem odpovědí ani ověřený kontaktní e-mail. Nevkládat skutečné odpovědi nebo soukromou firemní dokumentaci do veřejného repozitáře.
+Statický výzkumný prototyp bez účtů, analytiky, externích knihoven a databáze. Pro lokální kontrolu `python3 -m http.server 8000` a otevřít http://localhost:8000. Ověřit všech 6 sekcí, export/import, tisk, mobilní layout. Není zde centrální příjem odpovědí. Kontaktní e-mail info@krokivo.eu přijímá poštu (test doručení potvrdil vlastník 26. 11. 2026); odesílání z této domény zatím neověřeno. Odkazy mailto neodesílají nic automaticky. Nevkládat skutečné odpovědi nebo soukromou firemní dokumentaci do veřejného repozitáře.
 
 ## Laboratoř v0.1
 - `laborator/index.html` – čtyři koncepty, nakupování jako interaktivní prototyp.
